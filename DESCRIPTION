@@ -1,0 +1,9 @@
+Package: rtypr
+Title: What the Package Does
+Type: Package
+Version: 0.1.0
+Authors: Fabrice Hategekimana
+Description: installer and version management for R.
+License: MIT
+Encoding: UTF-8
+SystemRequirements: Windows OS
