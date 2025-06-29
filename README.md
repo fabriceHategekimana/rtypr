@@ -1,3 +1,3 @@
 # rtypr
 
-Description of your package goes here.
+Package to install TypR
